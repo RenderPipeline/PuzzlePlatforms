@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_5.0EA\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe" -projectfiles -project="C:\Users\Vandot\Documents\Unreal Projects\PuzzlePlatforms\PuzzlePlatforms.uproject" -game -rocket -progress -engine -VSCode
